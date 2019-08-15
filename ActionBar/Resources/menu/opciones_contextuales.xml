@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/agregar"
+    android:icon="@drawable/agregar"
+    android:title="@string/agregar"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/borrar"
+    android:icon="@drawable/borrar"
+    android:title="@string/borrar"
+    app:showAsAction="always" />
+  <item
+    android:id="@+id/actualizar"
+    android:icon="@drawable/actualizar"
+    android:title="@string/actualizar"
+    app:showAsAction="ifRoom|withText" />
+</menu>

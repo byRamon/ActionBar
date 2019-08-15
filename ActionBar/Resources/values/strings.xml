@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_button">Actividad hija</string>
+    <string name="my_button2">Actividad hija 2</string>
+    <string name="action_refresh">Actividad hija 2</string>
+    <string name="action_settings">Actividad hija 2</string>
+    <string name="action_about">Actividad hija 2</string>
+    <string name="propiedades">Propiedades</string>
+    <string name="configuracion">Configuración</string>
+    <string name="acercade">Acerca de</string>
+    <string name="my_buttonContextual">Boton contextual</string>
+    <string name="agregar">Agrgar</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+</resources>
